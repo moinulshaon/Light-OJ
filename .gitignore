@@ -1,4 +1,4 @@
 *
 !.gitignore
-!Light-OJ/vol10/**/*.cpp
+!vol10/**/*.cpp
 
