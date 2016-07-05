@@ -1,5 +1,7 @@
-!.gitignore
-!vol10/**/*.cpp
+# Ignore everything
 *
-
-
+# Don't ignore directories, so we can recurse into them
+!*/
+# Don't ignore .gitignore and *.foo files
+!.gitignore
+!*.cpp
