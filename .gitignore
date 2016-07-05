@@ -1,4 +1,5 @@
-*
 !.gitignore
-!vol10\**\*.cpp
+!vol10/**/*.cpp
+*
+
 
